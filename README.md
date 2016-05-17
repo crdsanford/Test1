@@ -7,3 +7,8 @@ This has been a test.
 ...in case you weren't sure.
 Just a test, k?
 Thanks
+
+No, really, you've been very kind in accepting this as a test.
+So accepting, in fact, that I will have to consider this a user acceptance test.
+(A little QA humor there. Not that that's out of a strong field... hmmm)
+
